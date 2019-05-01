@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learning_From_Data_For_Weight/Learning_From_Data_For_Weight.iml" filepath="$PROJECT_DIR$/Learning_From_Data_For_Weight/Learning_From_Data_For_Weight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logistic_Regression.iml" filepath="$PROJECT_DIR$/Logistic_Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prediction/Prediction.iml" filepath="$PROJECT_DIR$/Prediction/Prediction.iml" />
+    </modules>
+  </component>
+</project>
